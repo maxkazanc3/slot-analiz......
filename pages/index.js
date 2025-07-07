@@ -1,0 +1,1 @@
+// Basit arayüz placeholder (daha öncekiyle aynı değil)

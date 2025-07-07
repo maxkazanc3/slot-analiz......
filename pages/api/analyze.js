@@ -1,0 +1,1 @@
+// Analiz fonksiyonu placeholder (test amaçlı)
